@@ -48,8 +48,9 @@ I was definitely surprised at how uninteresting the surprises were, but at least
 *Question 3:* 
 *Figure 3:*
 
+
 Noah Analysis
-Slide 1: For the 76s what is the mean points earned per period?!
+*Slide 1: For the 76s what is the mean points earned per period?
 
 ![image](https://github.com/bearstmichael/proj1-group-3/assets/128091997/45b6c4d5-3c7a-4b59-91b9-a074a61dade6)
 
@@ -57,7 +58,7 @@ We must put this question into the context of the whole season, How were the 76s
 What did the 76s look like on game day? While usually starting off strong if the 76s did not have a good 3rd period there game was over. The ability to put up a modest amount of points in the second period and match those points in the 3rd was the ultimate predictor of winning or losing. 
 You could also conclude that the game could be predicted by the first period alone. When the team won a game, their lowest scoring period (4th) would earn them more points than their highest scoring period (1st)during a loss. This means that if the team scored close to 15 points on the first period it was extremely unlikely that they would win. 
 
-Slide 2: How did the points earned by 76s players stack up to rest of the league?!
+*Slide 2: How did the points earned by 76s players stack up to rest of the league?
 
 ![image](https://github.com/bearstmichael/proj1-group-3/assets/128091997/df4d4253-1cfb-482c-b32b-b5a052e4b656)
 
