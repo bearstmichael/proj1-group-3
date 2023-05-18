@@ -8,7 +8,9 @@ We are analyzing NBA's 2014-15 season, with some focus on the 76ers in particula
 
 ## Analysis ##
 *Question 1:* Which players on the 76ers in the 2014-15 season were the most effective defenders?
+
 *Figure 1:*
+
 ![bear_homeaway_splits](https://github.com/bearstmichael/proj1-group-3/assets/128632655/a9305f2a-afca-4d01-ae8a-001e387f98cd)
 
 This chart is designed to present offensive production ( number of points from 2’s and 3’s, no free-throws). It splits it into their average production at home vs away. It tracks all players for the 76ers in this season, qualified based on having made at least 4.0 shots per team game.
@@ -23,7 +25,9 @@ An interesting step way to go with this analysis would be to compare this with t
 
 
 *Question 2:* Which players on the 76ers in the 2014-15 season were the most effective defenders?
+
 *Figure 2a:*
+
 ![bear_twopt_defense](https://github.com/bearstmichael/proj1-group-3/assets/128632655/a1fd0d77-2084-4f2f-a3be-09cd603eec0e)
 
 This chart shows the shooting Success Rate Against for qualified defenders on the 76ers. Here, qualified means that the player has had at least 4.0 defensive opportunities per team game. Here, I am defining a “defensive opportunity” as a player being the physically closest defender on the course when the shot is taken.
