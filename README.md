@@ -35,6 +35,7 @@ This chart shows the shooting Success Rate Against for qualified defenders on th
 This Success Rate Against is calculated as the percentage of 2-pointers attempted that are actually made. So as a defender you want a low Success Rate Against. For comparison, I have included the 2014 Defensive Player of the Year, Kawhi Leonard. You’ll note that there isn’t actually very much difference between players.
 
 *Figure 2b:*
+
 ![bear_tript_defense](https://github.com/bearstmichael/proj1-group-3/assets/128632655/3679549a-bc40-429e-a322-62344cc1a93c)
 
 When we look at 3 pointers, we see that the overall shot success rate goes down, which makes sense because 3 pointers are more difficult shots. But we see again, that there isn’t much variation between players.
