@@ -8,4 +8,4 @@ You could also conclude that the game could be predicted by the first period alo
 
 Slide 7:
 Continuing the idea of putting the numbers into the context of the season, it is clear the 76s could not perform well. The average player earned 454 points during the 2014-2015 season. The closest a 76s player came to this is Michael carter Williams with 235.
-The end goal of basketball is to score more points than your opponents. Considering the extremely low volume of points the 76s were able to score it is no wonder they only won 18 games their whole season. ![image](https://github.com/bearstmichael/proj1-group-3/assets/128091997/beedfc94-8216-4f5b-b9aa-14de529f96b6)
+The end goal of basketball is to score more points than your opponents. Considering the extremely low volume of points the 76s were able to score it is no wonder they only won 18 games their whole season.
