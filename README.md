@@ -55,7 +55,7 @@ Slide 1: For the 76s what is the mean points earned per period?!
 
 We must put this question into the context of the whole season, How were the 76s preforming that season? Not well. They would win 18 games and lost 64
 What did the 76s look like on game day? While usually starting off strong if the 76s did not have a good 3rd period there game was over. The ability to put up a modest amount of points in the second period and match those points in the 3rd was the ultimate predictor of winning or losing. 
-You could also conclude that the game could be predicted by the first period alone. When the team won a game, their lowest scoring period (4th) would earn them more points than their highest scoring period (1st)during a loss. This means that if the team scored close to 15 points on the first period it was extremely unlikely that they would win. ![image](https://github.com/bearstmichael/proj1-group-3/assets/128091997/2107eb16-5fa6-484f-9327-43a0c49ef897)
+You could also conclude that the game could be predicted by the first period alone. When the team won a game, their lowest scoring period (4th) would earn them more points than their highest scoring period (1st)during a loss. This means that if the team scored close to 15 points on the first period it was extremely unlikely that they would win. 
 
 Slide 2: How did the points earned by 76s players stack up to rest of the league?!
 
