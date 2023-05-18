@@ -1,12 +1,12 @@
 # proj1-group-3
 
-## Analyzing NBA Shot Data ##
-# Bear, Naveen, Jake, Noah #
+# Analyzing NBA Shot Data #
+### Bear, Naveen, Jake, Noah ###
 
-# Data Description #
+## Data Description ##
 We are analyzing NBA's 2014-15 season, with some focus on the 76ers in particular. We drew this data from Kaggle.com, which contained datapoints for each attempted shot in each game that season, along with properties of that shot, such as distance, success of shot, closest defender, time on shot clock, and time of game. This dataset had 21 columns and 128,069 rows.
 
-# Analysis #
+## Analysis ##
 *Question 1:* Which players on the 76ers in the 2014-15 season were the most effective defenders?
 *Figure 1:*
 ![bear_homeaway_splits](https://github.com/bearstmichael/proj1-group-3/assets/128632655/a9305f2a-afca-4d01-ae8a-001e387f98cd)
