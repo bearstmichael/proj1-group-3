@@ -99,3 +99,21 @@ This bar chart is a representation of the number of made shots according to binn
 
 This line graph shows the relationship between percent of shots made and shot clock time. This accounts for the number of shots taken over the course of the shot clock so we can get a better picture of the relationship between shots made and shot clock time. This figure illustrates a clear positive relationship between these two variables such that as the shot clock time increases, the percentage of shots made increases as well. This makes sense because as players have a longer time to shoot the ball they are better able to do so.
 
+Jake Analysis
+
+*Question 1:* What variables affect shot percentage the most for the 76ers?
+*Figure 1:* 
+
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/d381e26b-a4bb-41f1-b3b9-591a92fa4942)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/16af867b-658d-479f-bab2-2b62e119f5a2)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/33757a75-87f7-4414-88fb-4cf9ba1bc72e)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/d76b6fbb-9ee9-4b53-aec1-6c7483932ecc)
+
+The above series of boxplots takes a look at various distributions of variables by whether or not the shot was made or missed. It includes only shots taken from 76er players in the 2014-15 season across 61 games. The varibles are shot distance, time on the ball, shot clock time, and how far the closest defender is. The reason for creating this series was to first visualize any differences between the distributions before testing for signifcant difference between them. Clear differences can be seen and the p-values are as follows; 5.26e-29 for Shot Distance, 0.0033 for Time on Ball, 1.18e-10 for Shot Clock, and 0.845 for Closest Defender. We see that our first three variables are having signifcant roles in the result of the shot, with shot distance being the most significant. An implication of these results are that great three point shooters may not be as valuable as points in the paint.
+
+
+
+
+
+
+
