@@ -111,9 +111,12 @@ Jake Analysis
 
 The above series of boxplots takes a look at various distributions of variables by whether or not the shot was made or missed. It includes only shots taken from 76er players in the 2014-15 season across 61 games. The varibles are shot distance, time on the ball, shot clock time, and how far the closest defender is. The reason for creating this series was to first visualize any differences between the distributions before testing for signifcant difference between them. Clear differences can be seen and the p-values are as follows; 5.26e-29 for Shot Distance, 0.0033 for Time on Ball, 1.18e-10 for Shot Clock, and 0.845 for Closest Defender. We see that our first three variables are having signifcant roles in the result of the shot, with shot distance being the most significant. An implication of these results are that great three point shooters may not be as valuable as points in the paint. We also see and interesting significance in shot clock time. Though all 3400+ shots are within the 24sec shot clock, there is a significant difference that shows that the earlier the shot is taken, the more likely it is made. A team could use a result like this to use more training time on working on zone entry and getting earlier shots.
 
+*Question 2:* How does this compare to the entire league?
+*Figure 2:* 
 
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/0f1a409f-2b8d-4b4b-b5ed-e5edb5e3fac1)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/b8ddefd6-d4d9-4b46-aabd-17163dd71148)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/b36a04ae-9278-414b-a3d6-fc746f75109c)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/61708246/d18b977d-ad91-44e2-bfca-84936d5beaa4)
 
-
-
-
-
+The above series of boxplots takes a look at various distributions of the same variables as before by whether or not the shot was made or missed. It includes all shots taken by all players and teams in the 2014-15 season. We notice the same variables are either significant or insignificant, with them also being in the same order of value. The implication of this is perhaps these specific variables aren’t where the biggest improvements need to be made and allows the organization to begin their search elsewhere. How a team can use this kind of analysis is assisting in investigation on what exactly led the 2014-15 76ers to an absymal season, being ranked 29 out of 30 teams PTS/G and record, and dead last in offensive rating and attendance.
