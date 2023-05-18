@@ -7,6 +7,8 @@
 We are analyzing NBA's 2014-15 season, with some focus on the 76ers in particular. We drew this data from Kaggle.com, which contained datapoints for each attempted shot in each game that season, along with properties of that shot, such as distance, success of shot, closest defender, time on shot clock, and time of game. This dataset had 21 columns and 128,069 rows.
 
 ## Analysis ##
+Bear Analysis
+
 *Question 1:* Which players on the 76ers in the 2014-15 season were the most effective defenders?
 
 *Figure 1:*
@@ -66,4 +68,34 @@ Slide 2: How did the points earned by 76s players stack up to rest of the league
 Continuing the idea of putting the numbers into the context of the season, it is clear the 76s could not perform well. The average player earned 454 points during the 2014-2015 season. The closest a 76s player came to this is Michael carter Williams with 235.
 The end goal of basketball is to score more points than your opponents. Considering the extremely low volume of points the 76s were able to score it is no wonder they only won 18 games their whole season.
 
+Naveen Analysis
+
+*Question 1:* What were the shot results from various distances?
+*Figure 1:* 
+![image](https://github.com/bearstmichael/proj1-group-3/assets/128173190/f7dc3547-1f6f-4419-9994-c28a98345821)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/128173190/4ddc08f1-9836-4234-8c3d-ca092dee4af8)
+![image](https://github.com/bearstmichael/proj1-group-3/assets/128173190/2d280a76-ed1a-4cbf-8542-7f975190be47)
+
+The first pie chart addresses every shot taken in the data set from all distances. Slightly more shots were missed (54.4%) than made (45.6%). The second pie chart shows the shot results for all distances less than 5 ft. At a distance of 5 ft more shots were made (61.9%) than missed (38.1%). This could be explained by the fact that this distance range covers layups which are shots that are rarely missed at this level of play. The final pie chart shows the shot results for all distances greater than 35 ft. At this distance, more shots are missed (78.6%) than made (21.4%).
+
+*Figure 2:*
+![image](https://github.com/bearstmichael/proj1-group-3/assets/128173190/530943db-0415-498f-9081-b1538b9e957d)
+
+This bar chart is a representation of the number of made shots according to binned distance values. It is important to note that this chart represents the total number of made shots and does not account for the differential amount of shots taken at each distance. For example, more shots are likely to be taken outside of the 3 point mark for increased value. This would explain the increased height of the bin (marked with blue line) that includes the distance 3 pointers are shot from. There is another peak at distance <5 ft so we can conclude that most shots that are made are in the range of less than 5 ft from the net and between 20 - 24.9 ft from the net.
+
+*Figure 3:*
+![image](https://github.com/bearstmichael/proj1-group-3/assets/128173190/92e7483d-4b45-48ef-9171-8d1e237fd3a1)
+
+This line graph shows the relationship between percent of shots made and distance. This accounts for the number of shots taken so we can get a more clear picture of what happens with the shot result as the distance increases. This graph shows a clear relationship between shot result and distance which is that as the distance increases, the percent of shots made decreases. In other words, the farther from the net you shoot, the more likely you are to miss.
+
+*Question 2:* When are shots made on the shot clock and how does that affect shot result?
+*Figure 4:*
+![image](https://github.com/bearstmichael/proj1-group-3/assets/128173190/b96b5ad6-e2ee-41c5-8abe-5cde29d3f90c)
+
+This bar chart is a representation of the number of made shots according to binned shot clock values. The shot clock is a clock that starts upon a player receiving the ball and counts up to 24 seconds at which point the player must either shoot or pass the ball. This figure shows that most shots are made between 8 to 16 seconds on the shot clock. Similarly to figure 2, however, this figure does not account for the differential amount of shots taken for each binned shot clock value. It could be that more shots are taken during the 8 to 16 second time period.
+
+*Figure 5:*
+![image](https://github.com/bearstmichael/proj1-group-3/assets/128173190/62b071ed-0b17-4b31-82bf-d874b4b08252)
+
+This line graph shows the relationship between percent of shots made and shot clock time. This accounts for the number of shots taken over the course of the shot clock so we can get a better picture of the relationship between shots made and shot clock time. This figure illustrates a clear positive relationship between these two variables such that as the shot clock time increases, the percentage of shots made increases as well. This makes sense because as players have a longer time to shoot the ball they are better able to do so.
 
